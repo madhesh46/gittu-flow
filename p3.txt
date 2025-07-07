@@ -17,7 +17,7 @@
   <h3>Beyond the Fort: Local Delights</h3>
   <h5>MALLAKOTTAI IF WELL KNOWN PLACE</h5>
   <p3> cavery is famous</p3>
-
+  <P>butterfly park<p>
   <p>Beyond its grand historical sites, Trichy boasts a rich tapestry of local life. The city's markets, like those near the famous Teppakulam, are a riot of colors and sounds, selling everything from fresh produce to traditional silk sarees. Don't miss trying some of the local South Indian delicacies like crispy dosas or flavorful idlis at one of the many eateries!</p>
 
 >>>>>>> c1cc199 ( cavery added)
